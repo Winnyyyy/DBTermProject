@@ -17,4 +17,4 @@
     "database": "YourID"
     }
    ```
-![image](picture or gif url)
+   ![image](picture or gif url)](https://github.com/Winnyyyy/DBTermProject/blob/main/1718899986063%402x.jpg)
