@@ -19,4 +19,11 @@
    ```
    ![image](https://github.com/Winnyyyy/picture/blob/main/1718899986063%402x.jpg)
 
-### ER diagram
+## ER diagram
+   ![image](https://github.com/Winnyyyy/picture/blob/main/eeer22.png)
+
+## Relational schema   
+   ![image](https://github.com/Winnyyyy/picture/blob/main/er%E5%9C%96111222333.png)
+
+## 生成結果
+   ![image](https://github.com/Winnyyyy/picture/blob/main/1718859361108%402x(1).jpg)
