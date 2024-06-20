@@ -6,15 +6,17 @@
 1. 匯入程式碼檔案
 
 
-   ![image](https://github.com/Winnyyyy/DBTermProject/blob/main/messageImage_1718900231901.jpg)
+   ![image](https://github.com/Winnyyyy/picture/blob/main/messageImage_1718900231901.jpg)
 2. 設定連接參數
    ```
     user_setting = {
-    "user": "YourID",
-    "password": "YourID",
+    "user": "410971109",
+    "password": "410971109",
     "host": "0.tcp.jp.ngrok.io",
     "port": 12592,
-    "database": "YourID"
+    "database": "410971109"
     }
    ```
-   ![image](picture or gif url)](https://github.com/Winnyyyy/DBTermProject/blob/main/1718899986063%402x.jpg)
+   ![image](https://github.com/Winnyyyy/picture/blob/main/1718899986063%402x.jpg)
+
+### ER diagram
